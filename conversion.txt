@@ -1,0 +1,999 @@
+1 : wāꜧid : واحِد
+2 : thnīn : ثنين
+3 : thlātha : ثلاثة
+4 : arbзa : أَربعة
+5 : khamsa : خَمسة
+6 : sit̄a : سِتّة
+7 : sabзa : سَبعة
+8 : thmānya : ثمانية
+9 : tisзa : تِسعة
+10 : зashra : عَشرة
+11 : aꜧdāsh : أَحداش
+12 : athnāsh : أَثناش
+13 : thloṭāsh : ثلُطاش
+14 : arbaзṭāsh : أَربَعطاش
+15 : khamsṭāsh : خَمسطاش
+16 : sit̄āsh : سِتَّّش
+17 : sbaзṭāsh : سبَعطاش
+18 : thmonṭāsh : ثمُنطاش
+19 : tsaзṭāsh : تسَعطاش
+20 : зishrīn : عِشرين
+21 : wāꜧid w зishrīn : واحِد و عِشرين
+22 : thnīn w зishrīn : ثنين و عِشرين
+23 : thlātha w зishrīn : ثلاثة و عِشرين
+24 : arbзa w зishrīn : أَربعة و عِشرين
+25 : khamsa w зishrīn : خَمسة و عِشرين
+26 : sit̄a w зishrīn : سِتّة و عِشرين
+27 : sabзa w зishrīn : سَبعة و عِشرين
+28 : thmānya w зishrīn : ثمانية و عِشرين
+29 : tisзa w зishrīn : تِسعة و عِشرين
+30 : thlāthīn : ثلاثين
+31 : wāꜧid w thlāthīn : واحِد و ثلاثين
+32 : thnīn w thlāthīn : ثنين و ثلاثين
+33 : thlātha w thlāthīn : ثلاثة و ثلاثين
+34 : arbзa w thlāthīn : أَربعة و ثلاثين
+35 : khamsa w thlāthīn : خَمسة و ثلاثين
+36 : sit̄a w thlāthīn : سِتّة و ثلاثين
+37 : sabзa w thlāthīn : سَبعة و ثلاثين
+38 : thmānya w thlāthīn : ثمانية و ثلاثين
+39 : tisзa w thlāthīn : تِسعة و ثلاثين
+40 : arbзīn : أَربعين
+41 : wāꜧid w arbзīn : واحِد و أَربعين
+42 : thnīn w arbзīn : ثنين و أَربعين
+43 : thlātha w arbзīn : ثلاثة و أَربعين
+44 : arbзa w arbзīn : أَربعة و أَربعين
+45 : khamsa w arbзīn : خَمسة و أَربعين
+46 : sit̄a w arbзīn : سِتّة و أَربعين
+47 : sabзa w arbзīn : سَبعة و أَربعين
+48 : thmānya w arbзīn : ثمانية و أَربعين
+49 : tisзa w arbзīn : تِسعة و أَربعين
+50 : khamsīn : خَمسين
+51 : wāꜧid w khamsīn : واحِد و خَمسين
+52 : thnīn w khamsīn : ثنين و خَمسين
+53 : thlātha w khamsīn : ثلاثة و خَمسين
+54 : arbзa w khamsīn : أَربعة و خَمسين
+55 : khamsa w khamsīn : خَمسة و خَمسين
+56 : sit̄a w khamsīn : سِتّة و خَمسين
+57 : sabзa w khamsīn : سَبعة و خَمسين
+58 : thmānya w khamsīn : ثمانية و خَمسين
+59 : tisзa w khamsīn : تِسعة و خَمسين
+60 : sit̄īn : سِتّين
+61 : wāꜧid w sit̄īn : واحِد و سِتّين
+62 : thnīn w sit̄īn : ثنين و سِتّين
+63 : thlātha w sit̄īn : ثلاثة و سِتّين
+64 : arbзa w sit̄īn : أَربعة و سِتّين
+65 : khamsa w sit̄īn : خَمسة و سِتّين
+66 : sit̄a w sit̄īn : سِتّة و سِتّين
+67 : sabзa w sit̄īn : سَبعة و سِتّين
+68 : thmānya w sit̄īn : ثمانية و سِتّين
+69 : tisзa w sit̄īn : تِسعة و سِتّين
+70 : sabзīn : سَبعين
+71 : wāꜧid w sabзīn : واحِد و سَبعين
+72 : thnīn w sabзīn : ثنين و سَبعين
+73 : thlātha w sabзīn : ثلاثة و سَبعين
+74 : arbзa w sabзīn : أَربعة و سَبعين
+75 : khamsa w sabзīn : خَمسة و سَبعين
+76 : sit̄a w sabзīn : سِتّة و سَبعين
+77 : sabзa w sabзīn : سَبعة و سَبعين
+78 : thmānya w sabзīn : ثمانية و سَبعين
+79 : tisзa w sabзīn : تِسعة و سَبعين
+80 : thmānīn : ثمانين
+81 : wāꜧid w thmānīn : واحِد و ثمانين
+82 : thnīn w thmānīn : ثنين و ثمانين
+83 : thlātha w thmānīn : ثلاثة و ثمانين
+84 : arbзa w thmānīn : أَربعة و ثمانين
+85 : khamsa w thmānīn : خَمسة و ثمانين
+86 : sit̄a w thmānīn : سِتّة و ثمانين
+87 : sabзa w thmānīn : سَبعة و ثمانين
+88 : thmānya w thmānīn : ثمانية و ثمانين
+89 : tisзa w thmānīn : تِسعة و ثمانين
+90 : tisзīn : تِسعين
+91 : wāꜧid w tisзīn : واحِد و تِسعين
+92 : thnīn w tisзīn : ثنين و تِسعين
+93 : thlātha w tisзīn : ثلاثة و تِسعين
+94 : arbзa w tisзīn : أَربعة و تِسعين
+95 : khamsa w tisзīn : خَمسة و تِسعين
+96 : sit̄a w tisзīn : سِتّة و تِسعين
+97 : sabзa w tisзīn : سَبعة و تِسعين
+98 : thmānya w tisзīn : ثمانية و تِسعين
+99 : tisзa w tisзīn : تِسعة و تِسعين
+100 : myā : ميا
+101 : myā w wāꜧid : ميا و واحِد
+102 : myā w thnīn : ميا و ثنين
+103 : myā w thlātha : ميا و ثلاثة
+104 : myā w arbзa : ميا و أَربعة
+105 : myā w khamsa : ميا و خَمسة
+106 : myā w sit̄a : ميا و سِتّة
+107 : myā w sabзa : ميا و سَبعة
+108 : myā w thmānya : ميا و ثمانية
+109 : myā w tisзa : ميا و تِسعة
+110 : myā w зashra : ميا و عَشرة
+111 : myā w aꜧdāsh : ميا و أَحداش
+112 : myā w athnāsh : ميا و أَثناش
+113 : myā w thloṭāsh : ميا و ثلُطاش
+114 : myā w arbaзṭāsh : ميا و أَربَعطاش
+115 : myā w khamsṭāsh : ميا و خَمسطاش
+116 : myā w sit̄āsh : ميا و سِتَّّش
+117 : myā w sbaзṭāsh : ميا و سبَعطاش
+118 : myā w thmonṭāsh : ميا و ثمُنطاش
+119 : myā w tsaзṭāsh : ميا و تسَعطاش
+120 : myā w зishrīn : ميا و عِشرين
+121 : myā w wāꜧid w зishrīn : ميا و واحِد و عِشرين
+122 : myā w thnīn w зishrīn : ميا و ثنين و عِشرين
+123 : myā w thlātha w зishrīn : ميا و ثلاثة و عِشرين
+124 : myā w arbзa w зishrīn : ميا و أَربعة و عِشرين
+125 : myā w khamsa w зishrīn : ميا و خَمسة و عِشرين
+126 : myā w sit̄a w зishrīn : ميا و سِتّة و عِشرين
+127 : myā w sabзa w зishrīn : ميا و سَبعة و عِشرين
+128 : myā w thmānya w зishrīn : ميا و ثمانية و عِشرين
+129 : myā w tisзa w зishrīn : ميا و تِسعة و عِشرين
+130 : myā w thlāthīn : ميا و ثلاثين
+131 : myā w wāꜧid w thlāthīn : ميا و واحِد و ثلاثين
+132 : myā w thnīn w thlāthīn : ميا و ثنين و ثلاثين
+133 : myā w thlātha w thlāthīn : ميا و ثلاثة و ثلاثين
+134 : myā w arbзa w thlāthīn : ميا و أَربعة و ثلاثين
+135 : myā w khamsa w thlāthīn : ميا و خَمسة و ثلاثين
+136 : myā w sit̄a w thlāthīn : ميا و سِتّة و ثلاثين
+137 : myā w sabзa w thlāthīn : ميا و سَبعة و ثلاثين
+138 : myā w thmānya w thlāthīn : ميا و ثمانية و ثلاثين
+139 : myā w tisзa w thlāthīn : ميا و تِسعة و ثلاثين
+140 : myā w arbзīn : ميا و أَربعين
+141 : myā w wāꜧid w arbзīn : ميا و واحِد و أَربعين
+142 : myā w thnīn w arbзīn : ميا و ثنين و أَربعين
+143 : myā w thlātha w arbзīn : ميا و ثلاثة و أَربعين
+144 : myā w arbзa w arbзīn : ميا و أَربعة و أَربعين
+145 : myā w khamsa w arbзīn : ميا و خَمسة و أَربعين
+146 : myā w sit̄a w arbзīn : ميا و سِتّة و أَربعين
+147 : myā w sabзa w arbзīn : ميا و سَبعة و أَربعين
+148 : myā w thmānya w arbзīn : ميا و ثمانية و أَربعين
+149 : myā w tisзa w arbзīn : ميا و تِسعة و أَربعين
+150 : myā w khamsīn : ميا و خَمسين
+151 : myā w wāꜧid w khamsīn : ميا و واحِد و خَمسين
+152 : myā w thnīn w khamsīn : ميا و ثنين و خَمسين
+153 : myā w thlātha w khamsīn : ميا و ثلاثة و خَمسين
+154 : myā w arbзa w khamsīn : ميا و أَربعة و خَمسين
+155 : myā w khamsa w khamsīn : ميا و خَمسة و خَمسين
+156 : myā w sit̄a w khamsīn : ميا و سِتّة و خَمسين
+157 : myā w sabзa w khamsīn : ميا و سَبعة و خَمسين
+158 : myā w thmānya w khamsīn : ميا و ثمانية و خَمسين
+159 : myā w tisзa w khamsīn : ميا و تِسعة و خَمسين
+160 : myā w sit̄īn : ميا و سِتّين
+161 : myā w wāꜧid w sit̄īn : ميا و واحِد و سِتّين
+162 : myā w thnīn w sit̄īn : ميا و ثنين و سِتّين
+163 : myā w thlātha w sit̄īn : ميا و ثلاثة و سِتّين
+164 : myā w arbзa w sit̄īn : ميا و أَربعة و سِتّين
+165 : myā w khamsa w sit̄īn : ميا و خَمسة و سِتّين
+166 : myā w sit̄a w sit̄īn : ميا و سِتّة و سِتّين
+167 : myā w sabзa w sit̄īn : ميا و سَبعة و سِتّين
+168 : myā w thmānya w sit̄īn : ميا و ثمانية و سِتّين
+169 : myā w tisзa w sit̄īn : ميا و تِسعة و سِتّين
+170 : myā w sabзīn : ميا و سَبعين
+171 : myā w wāꜧid w sabзīn : ميا و واحِد و سَبعين
+172 : myā w thnīn w sabзīn : ميا و ثنين و سَبعين
+173 : myā w thlātha w sabзīn : ميا و ثلاثة و سَبعين
+174 : myā w arbзa w sabзīn : ميا و أَربعة و سَبعين
+175 : myā w khamsa w sabзīn : ميا و خَمسة و سَبعين
+176 : myā w sit̄a w sabзīn : ميا و سِتّة و سَبعين
+177 : myā w sabзa w sabзīn : ميا و سَبعة و سَبعين
+178 : myā w thmānya w sabзīn : ميا و ثمانية و سَبعين
+179 : myā w tisзa w sabзīn : ميا و تِسعة و سَبعين
+180 : myā w thmānīn : ميا و ثمانين
+181 : myā w wāꜧid w thmānīn : ميا و واحِد و ثمانين
+182 : myā w thnīn w thmānīn : ميا و ثنين و ثمانين
+183 : myā w thlātha w thmānīn : ميا و ثلاثة و ثمانين
+184 : myā w arbзa w thmānīn : ميا و أَربعة و ثمانين
+185 : myā w khamsa w thmānīn : ميا و خَمسة و ثمانين
+186 : myā w sit̄a w thmānīn : ميا و سِتّة و ثمانين
+187 : myā w sabзa w thmānīn : ميا و سَبعة و ثمانين
+188 : myā w thmānya w thmānīn : ميا و ثمانية و ثمانين
+189 : myā w tisзa w thmānīn : ميا و تِسعة و ثمانين
+190 : myā w tisзīn : ميا و تِسعين
+191 : myā w wāꜧid w tisзīn : ميا و واحِد و تِسعين
+192 : myā w thnīn w tisзīn : ميا و ثنين و تِسعين
+193 : myā w thlātha w tisзīn : ميا و ثلاثة و تِسعين
+194 : myā w arbзa w tisзīn : ميا و أَربعة و تِسعين
+195 : myā w khamsa w tisзīn : ميا و خَمسة و تِسعين
+196 : myā w sit̄a w tisзīn : ميا و سِتّة و تِسعين
+197 : myā w sabзa w tisзīn : ميا و سَبعة و تِسعين
+198 : myā w thmānya w tisзīn : ميا و ثمانية و تِسعين
+199 : myā w tisзa w tisзīn : ميا و تِسعة و تِسعين
+200 : mītīn : ميتين
+201 : mītīn w wāꜧid : ميتين و واحِد
+202 : mītīn w thnīn : ميتين و ثنين
+203 : mītīn w thlātha : ميتين و ثلاثة
+204 : mītīn w arbзa : ميتين و أَربعة
+205 : mītīn w khamsa : ميتين و خَمسة
+206 : mītīn w sit̄a : ميتين و سِتّة
+207 : mītīn w sabзa : ميتين و سَبعة
+208 : mītīn w thmānya : ميتين و ثمانية
+209 : mītīn w tisзa : ميتين و تِسعة
+210 : mītīn w зashra : ميتين و عَشرة
+211 : mītīn w aꜧdāsh : ميتين و أَحداش
+212 : mītīn w athnāsh : ميتين و أَثناش
+213 : mītīn w thloṭāsh : ميتين و ثلُطاش
+214 : mītīn w arbaзṭāsh : ميتين و أَربَعطاش
+215 : mītīn w khamsṭāsh : ميتين و خَمسطاش
+216 : mītīn w sit̄āsh : ميتين و سِتَّّش
+217 : mītīn w sbaзṭāsh : ميتين و سبَعطاش
+218 : mītīn w thmonṭāsh : ميتين و ثمُنطاش
+219 : mītīn w tsaзṭāsh : ميتين و تسَعطاش
+220 : mītīn w зishrīn : ميتين و عِشرين
+221 : mītīn w wāꜧid w зishrīn : ميتين و واحِد و عِشرين
+222 : mītīn w thnīn w зishrīn : ميتين و ثنين و عِشرين
+223 : mītīn w thlātha w зishrīn : ميتين و ثلاثة و عِشرين
+224 : mītīn w arbзa w зishrīn : ميتين و أَربعة و عِشرين
+225 : mītīn w khamsa w зishrīn : ميتين و خَمسة و عِشرين
+226 : mītīn w sit̄a w зishrīn : ميتين و سِتّة و عِشرين
+227 : mītīn w sabзa w зishrīn : ميتين و سَبعة و عِشرين
+228 : mītīn w thmānya w зishrīn : ميتين و ثمانية و عِشرين
+229 : mītīn w tisзa w зishrīn : ميتين و تِسعة و عِشرين
+230 : mītīn w thlāthīn : ميتين و ثلاثين
+231 : mītīn w wāꜧid w thlāthīn : ميتين و واحِد و ثلاثين
+232 : mītīn w thnīn w thlāthīn : ميتين و ثنين و ثلاثين
+233 : mītīn w thlātha w thlāthīn : ميتين و ثلاثة و ثلاثين
+234 : mītīn w arbзa w thlāthīn : ميتين و أَربعة و ثلاثين
+235 : mītīn w khamsa w thlāthīn : ميتين و خَمسة و ثلاثين
+236 : mītīn w sit̄a w thlāthīn : ميتين و سِتّة و ثلاثين
+237 : mītīn w sabзa w thlāthīn : ميتين و سَبعة و ثلاثين
+238 : mītīn w thmānya w thlāthīn : ميتين و ثمانية و ثلاثين
+239 : mītīn w tisзa w thlāthīn : ميتين و تِسعة و ثلاثين
+240 : mītīn w arbзīn : ميتين و أَربعين
+241 : mītīn w wāꜧid w arbзīn : ميتين و واحِد و أَربعين
+242 : mītīn w thnīn w arbзīn : ميتين و ثنين و أَربعين
+243 : mītīn w thlātha w arbзīn : ميتين و ثلاثة و أَربعين
+244 : mītīn w arbзa w arbзīn : ميتين و أَربعة و أَربعين
+245 : mītīn w khamsa w arbзīn : ميتين و خَمسة و أَربعين
+246 : mītīn w sit̄a w arbзīn : ميتين و سِتّة و أَربعين
+247 : mītīn w sabзa w arbзīn : ميتين و سَبعة و أَربعين
+248 : mītīn w thmānya w arbзīn : ميتين و ثمانية و أَربعين
+249 : mītīn w tisзa w arbзīn : ميتين و تِسعة و أَربعين
+250 : mītīn w khamsīn : ميتين و خَمسين
+251 : mītīn w wāꜧid w khamsīn : ميتين و واحِد و خَمسين
+252 : mītīn w thnīn w khamsīn : ميتين و ثنين و خَمسين
+253 : mītīn w thlātha w khamsīn : ميتين و ثلاثة و خَمسين
+254 : mītīn w arbзa w khamsīn : ميتين و أَربعة و خَمسين
+255 : mītīn w khamsa w khamsīn : ميتين و خَمسة و خَمسين
+256 : mītīn w sit̄a w khamsīn : ميتين و سِتّة و خَمسين
+257 : mītīn w sabзa w khamsīn : ميتين و سَبعة و خَمسين
+258 : mītīn w thmānya w khamsīn : ميتين و ثمانية و خَمسين
+259 : mītīn w tisзa w khamsīn : ميتين و تِسعة و خَمسين
+260 : mītīn w sit̄īn : ميتين و سِتّين
+261 : mītīn w wāꜧid w sit̄īn : ميتين و واحِد و سِتّين
+262 : mītīn w thnīn w sit̄īn : ميتين و ثنين و سِتّين
+263 : mītīn w thlātha w sit̄īn : ميتين و ثلاثة و سِتّين
+264 : mītīn w arbзa w sit̄īn : ميتين و أَربعة و سِتّين
+265 : mītīn w khamsa w sit̄īn : ميتين و خَمسة و سِتّين
+266 : mītīn w sit̄a w sit̄īn : ميتين و سِتّة و سِتّين
+267 : mītīn w sabзa w sit̄īn : ميتين و سَبعة و سِتّين
+268 : mītīn w thmānya w sit̄īn : ميتين و ثمانية و سِتّين
+269 : mītīn w tisзa w sit̄īn : ميتين و تِسعة و سِتّين
+270 : mītīn w sabзīn : ميتين و سَبعين
+271 : mītīn w wāꜧid w sabзīn : ميتين و واحِد و سَبعين
+272 : mītīn w thnīn w sabзīn : ميتين و ثنين و سَبعين
+273 : mītīn w thlātha w sabзīn : ميتين و ثلاثة و سَبعين
+274 : mītīn w arbзa w sabзīn : ميتين و أَربعة و سَبعين
+275 : mītīn w khamsa w sabзīn : ميتين و خَمسة و سَبعين
+276 : mītīn w sit̄a w sabзīn : ميتين و سِتّة و سَبعين
+277 : mītīn w sabзa w sabзīn : ميتين و سَبعة و سَبعين
+278 : mītīn w thmānya w sabзīn : ميتين و ثمانية و سَبعين
+279 : mītīn w tisзa w sabзīn : ميتين و تِسعة و سَبعين
+280 : mītīn w thmānīn : ميتين و ثمانين
+281 : mītīn w wāꜧid w thmānīn : ميتين و واحِد و ثمانين
+282 : mītīn w thnīn w thmānīn : ميتين و ثنين و ثمانين
+283 : mītīn w thlātha w thmānīn : ميتين و ثلاثة و ثمانين
+284 : mītīn w arbзa w thmānīn : ميتين و أَربعة و ثمانين
+285 : mītīn w khamsa w thmānīn : ميتين و خَمسة و ثمانين
+286 : mītīn w sit̄a w thmānīn : ميتين و سِتّة و ثمانين
+287 : mītīn w sabзa w thmānīn : ميتين و سَبعة و ثمانين
+288 : mītīn w thmānya w thmānīn : ميتين و ثمانية و ثمانين
+289 : mītīn w tisзa w thmānīn : ميتين و تِسعة و ثمانين
+290 : mītīn w tisзīn : ميتين و تِسعين
+291 : mītīn w wāꜧid w tisзīn : ميتين و واحِد و تِسعين
+292 : mītīn w thnīn w tisзīn : ميتين و ثنين و تِسعين
+293 : mītīn w thlātha w tisзīn : ميتين و ثلاثة و تِسعين
+294 : mītīn w arbзa w tisзīn : ميتين و أَربعة و تِسعين
+295 : mītīn w khamsa w tisзīn : ميتين و خَمسة و تِسعين
+296 : mītīn w sit̄a w tisзīn : ميتين و سِتّة و تِسعين
+297 : mītīn w sabзa w tisзīn : ميتين و سَبعة و تِسعين
+298 : mītīn w thmānya w tisзīn : ميتين و ثمانية و تِسعين
+299 : mītīn w tisзa w tisзīn : ميتين و تِسعة و تِسعين
+300 : tlātha myā : تلاثة ميا
+301 : thlātha myā w wāꜧid : ثلاثة ميا و واحِد
+302 : thlātha myā w thnīn : ثلاثة ميا و ثنين
+303 : thlātha myā w thlātha : ثلاثة ميا و ثلاثة
+304 : thlātha myā w arbзa : ثلاثة ميا و أَربعة
+305 : thlātha myā w khamsa : ثلاثة ميا و خَمسة
+306 : thlātha myā w sit̄a : ثلاثة ميا و سِتّة
+307 : thlātha myā w sabзa : ثلاثة ميا و سَبعة
+308 : thlātha myā w thmānya : ثلاثة ميا و ثمانية
+309 : thlātha myā w tisзa : ثلاثة ميا و تِسعة
+310 : thlātha myā w зashra : ثلاثة ميا و عَشرة
+311 : thlātha myā w aꜧdāsh : ثلاثة ميا و أَحداش
+312 : thlātha myā w athnāsh : ثلاثة ميا و أَثناش
+313 : thlātha myā w thloṭāsh : ثلاثة ميا و ثلُطاش
+314 : thlātha myā w arbaзṭāsh : ثلاثة ميا و أَربَعطاش
+315 : thlātha myā w khamsṭāsh : ثلاثة ميا و خَمسطاش
+316 : thlātha myā w sit̄āsh : ثلاثة ميا و سِتَّّش
+317 : thlātha myā w sbaзṭāsh : ثلاثة ميا و سبَعطاش
+318 : thlātha myā w thmonṭāsh : ثلاثة ميا و ثمُنطاش
+319 : thlātha myā w tsaзṭāsh : ثلاثة ميا و تسَعطاش
+320 : thlātha myā w зishrīn : ثلاثة ميا و عِشرين
+321 : thlātha myā w wāꜧid w зishrīn : ثلاثة ميا و واحِد و عِشرين
+322 : thlātha myā w thnīn w зishrīn : ثلاثة ميا و ثنين و عِشرين
+323 : thlātha myā w thlātha w зishrīn : ثلاثة ميا و ثلاثة و عِشرين
+324 : thlātha myā w arbзa w зishrīn : ثلاثة ميا و أَربعة و عِشرين
+325 : thlātha myā w khamsa w зishrīn : ثلاثة ميا و خَمسة و عِشرين
+326 : thlātha myā w sit̄a w зishrīn : ثلاثة ميا و سِتّة و عِشرين
+327 : thlātha myā w sabзa w зishrīn : ثلاثة ميا و سَبعة و عِشرين
+328 : thlātha myā w thmānya w зishrīn : ثلاثة ميا و ثمانية و عِشرين
+329 : thlātha myā w tisзa w зishrīn : ثلاثة ميا و تِسعة و عِشرين
+330 : thlātha myā w thlāthīn : ثلاثة ميا و ثلاثين
+331 : thlātha myā w wāꜧid w thlāthīn : ثلاثة ميا و واحِد و ثلاثين
+332 : thlātha myā w thnīn w thlāthīn : ثلاثة ميا و ثنين و ثلاثين
+333 : thlātha myā w thlātha w thlāthīn : ثلاثة ميا و ثلاثة و ثلاثين
+334 : thlātha myā w arbзa w thlāthīn : ثلاثة ميا و أَربعة و ثلاثين
+335 : thlātha myā w khamsa w thlāthīn : ثلاثة ميا و خَمسة و ثلاثين
+336 : thlātha myā w sit̄a w thlāthīn : ثلاثة ميا و سِتّة و ثلاثين
+337 : thlātha myā w sabзa w thlāthīn : ثلاثة ميا و سَبعة و ثلاثين
+338 : thlātha myā w thmānya w thlāthīn : ثلاثة ميا و ثمانية و ثلاثين
+339 : thlātha myā w tisзa w thlāthīn : ثلاثة ميا و تِسعة و ثلاثين
+340 : thlātha myā w arbзīn : ثلاثة ميا و أَربعين
+341 : thlātha myā w wāꜧid w arbзīn : ثلاثة ميا و واحِد و أَربعين
+342 : thlātha myā w thnīn w arbзīn : ثلاثة ميا و ثنين و أَربعين
+343 : thlātha myā w thlātha w arbзīn : ثلاثة ميا و ثلاثة و أَربعين
+344 : thlātha myā w arbзa w arbзīn : ثلاثة ميا و أَربعة و أَربعين
+345 : thlātha myā w khamsa w arbзīn : ثلاثة ميا و خَمسة و أَربعين
+346 : thlātha myā w sit̄a w arbзīn : ثلاثة ميا و سِتّة و أَربعين
+347 : thlātha myā w sabзa w arbзīn : ثلاثة ميا و سَبعة و أَربعين
+348 : thlātha myā w thmānya w arbзīn : ثلاثة ميا و ثمانية و أَربعين
+349 : thlātha myā w tisзa w arbзīn : ثلاثة ميا و تِسعة و أَربعين
+350 : thlātha myā w khamsīn : ثلاثة ميا و خَمسين
+351 : thlātha myā w wāꜧid w khamsīn : ثلاثة ميا و واحِد و خَمسين
+352 : thlātha myā w thnīn w khamsīn : ثلاثة ميا و ثنين و خَمسين
+353 : thlātha myā w thlātha w khamsīn : ثلاثة ميا و ثلاثة و خَمسين
+354 : thlātha myā w arbзa w khamsīn : ثلاثة ميا و أَربعة و خَمسين
+355 : thlātha myā w khamsa w khamsīn : ثلاثة ميا و خَمسة و خَمسين
+356 : thlātha myā w sit̄a w khamsīn : ثلاثة ميا و سِتّة و خَمسين
+357 : thlātha myā w sabзa w khamsīn : ثلاثة ميا و سَبعة و خَمسين
+358 : thlātha myā w thmānya w khamsīn : ثلاثة ميا و ثمانية و خَمسين
+359 : thlātha myā w tisзa w khamsīn : ثلاثة ميا و تِسعة و خَمسين
+360 : thlātha myā w sit̄īn : ثلاثة ميا و سِتّين
+361 : thlātha myā w wāꜧid w sit̄īn : ثلاثة ميا و واحِد و سِتّين
+362 : thlātha myā w thnīn w sit̄īn : ثلاثة ميا و ثنين و سِتّين
+363 : thlātha myā w thlātha w sit̄īn : ثلاثة ميا و ثلاثة و سِتّين
+364 : thlātha myā w arbзa w sit̄īn : ثلاثة ميا و أَربعة و سِتّين
+365 : thlātha myā w khamsa w sit̄īn : ثلاثة ميا و خَمسة و سِتّين
+366 : thlātha myā w sit̄a w sit̄īn : ثلاثة ميا و سِتّة و سِتّين
+367 : thlātha myā w sabзa w sit̄īn : ثلاثة ميا و سَبعة و سِتّين
+368 : thlātha myā w thmānya w sit̄īn : ثلاثة ميا و ثمانية و سِتّين
+369 : thlātha myā w tisзa w sit̄īn : ثلاثة ميا و تِسعة و سِتّين
+370 : thlātha myā w sabзīn : ثلاثة ميا و سَبعين
+371 : thlātha myā w wāꜧid w sabзīn : ثلاثة ميا و واحِد و سَبعين
+372 : thlātha myā w thnīn w sabзīn : ثلاثة ميا و ثنين و سَبعين
+373 : thlātha myā w thlātha w sabзīn : ثلاثة ميا و ثلاثة و سَبعين
+374 : thlātha myā w arbзa w sabзīn : ثلاثة ميا و أَربعة و سَبعين
+375 : thlātha myā w khamsa w sabзīn : ثلاثة ميا و خَمسة و سَبعين
+376 : thlātha myā w sit̄a w sabзīn : ثلاثة ميا و سِتّة و سَبعين
+377 : thlātha myā w sabзa w sabзīn : ثلاثة ميا و سَبعة و سَبعين
+378 : thlātha myā w thmānya w sabзīn : ثلاثة ميا و ثمانية و سَبعين
+379 : thlātha myā w tisзa w sabзīn : ثلاثة ميا و تِسعة و سَبعين
+380 : thlātha myā w thmānīn : ثلاثة ميا و ثمانين
+381 : thlātha myā w wāꜧid w thmānīn : ثلاثة ميا و واحِد و ثمانين
+382 : thlātha myā w thnīn w thmānīn : ثلاثة ميا و ثنين و ثمانين
+383 : thlātha myā w thlātha w thmānīn : ثلاثة ميا و ثلاثة و ثمانين
+384 : thlātha myā w arbзa w thmānīn : ثلاثة ميا و أَربعة و ثمانين
+385 : thlātha myā w khamsa w thmānīn : ثلاثة ميا و خَمسة و ثمانين
+386 : thlātha myā w sit̄a w thmānīn : ثلاثة ميا و سِتّة و ثمانين
+387 : thlātha myā w sabзa w thmānīn : ثلاثة ميا و سَبعة و ثمانين
+388 : thlātha myā w thmānya w thmānīn : ثلاثة ميا و ثمانية و ثمانين
+389 : thlātha myā w tisзa w thmānīn : ثلاثة ميا و تِسعة و ثمانين
+390 : thlātha myā w tisзīn : ثلاثة ميا و تِسعين
+391 : thlātha myā w wāꜧid w tisзīn : ثلاثة ميا و واحِد و تِسعين
+392 : thlātha myā w thnīn w tisзīn : ثلاثة ميا و ثنين و تِسعين
+393 : thlātha myā w thlātha w tisзīn : ثلاثة ميا و ثلاثة و تِسعين
+394 : thlātha myā w arbзa w tisзīn : ثلاثة ميا و أَربعة و تِسعين
+395 : thlātha myā w khamsa w tisзīn : ثلاثة ميا و خَمسة و تِسعين
+396 : thlātha myā w sit̄a w tisзīn : ثلاثة ميا و سِتّة و تِسعين
+397 : thlātha myā w sabзa w tisзīn : ثلاثة ميا و سَبعة و تِسعين
+398 : thlātha myā w thmānya w tisзīn : ثلاثة ميا و ثمانية و تِسعين
+399 : thlātha myā w tisзa w tisзīn : ثلاثة ميا و تِسعة و تِسعين
+400 : arbзa myā : أَربعة ميا
+401 : arbзa myā w wāꜧid : أَربعة ميا و واحِد
+402 : arbзa myā w thnīn : أَربعة ميا و ثنين
+403 : arbзa myā w thlātha : أَربعة ميا و ثلاثة
+404 : arbзa myā w arbзa : أَربعة ميا و أَربعة
+405 : arbзa myā w khamsa : أَربعة ميا و خَمسة
+406 : arbзa myā w sit̄a : أَربعة ميا و سِتّة
+407 : arbзa myā w sabзa : أَربعة ميا و سَبعة
+408 : arbзa myā w thmānya : أَربعة ميا و ثمانية
+409 : arbзa myā w tisзa : أَربعة ميا و تِسعة
+410 : arbзa myā w зashra : أَربعة ميا و عَشرة
+411 : arbзa myā w aꜧdāsh : أَربعة ميا و أَحداش
+412 : arbзa myā w athnāsh : أَربعة ميا و أَثناش
+413 : arbзa myā w thloṭāsh : أَربعة ميا و ثلُطاش
+414 : arbзa myā w arbaзṭāsh : أَربعة ميا و أَربَعطاش
+415 : arbзa myā w khamsṭāsh : أَربعة ميا و خَمسطاش
+416 : arbзa myā w sit̄āsh : أَربعة ميا و سِتَّّش
+417 : arbзa myā w sbaзṭāsh : أَربعة ميا و سبَعطاش
+418 : arbзa myā w thmonṭāsh : أَربعة ميا و ثمُنطاش
+419 : arbзa myā w tsaзṭāsh : أَربعة ميا و تسَعطاش
+420 : arbзa myā w зishrīn : أَربعة ميا و عِشرين
+421 : arbзa myā w wāꜧid w зishrīn : أَربعة ميا و واحِد و عِشرين
+422 : arbзa myā w thnīn w зishrīn : أَربعة ميا و ثنين و عِشرين
+423 : arbзa myā w thlātha w зishrīn : أَربعة ميا و ثلاثة و عِشرين
+424 : arbзa myā w arbзa w зishrīn : أَربعة ميا و أَربعة و عِشرين
+425 : arbзa myā w khamsa w зishrīn : أَربعة ميا و خَمسة و عِشرين
+426 : arbзa myā w sit̄a w зishrīn : أَربعة ميا و سِتّة و عِشرين
+427 : arbзa myā w sabзa w зishrīn : أَربعة ميا و سَبعة و عِشرين
+428 : arbзa myā w thmānya w зishrīn : أَربعة ميا و ثمانية و عِشرين
+429 : arbзa myā w tisзa w зishrīn : أَربعة ميا و تِسعة و عِشرين
+430 : arbзa myā w thlāthīn : أَربعة ميا و ثلاثين
+431 : arbзa myā w wāꜧid w thlāthīn : أَربعة ميا و واحِد و ثلاثين
+432 : arbзa myā w thnīn w thlāthīn : أَربعة ميا و ثنين و ثلاثين
+433 : arbзa myā w thlātha w thlāthīn : أَربعة ميا و ثلاثة و ثلاثين
+434 : arbзa myā w arbзa w thlāthīn : أَربعة ميا و أَربعة و ثلاثين
+435 : arbзa myā w khamsa w thlāthīn : أَربعة ميا و خَمسة و ثلاثين
+436 : arbзa myā w sit̄a w thlāthīn : أَربعة ميا و سِتّة و ثلاثين
+437 : arbзa myā w sabзa w thlāthīn : أَربعة ميا و سَبعة و ثلاثين
+438 : arbзa myā w thmānya w thlāthīn : أَربعة ميا و ثمانية و ثلاثين
+439 : arbзa myā w tisзa w thlāthīn : أَربعة ميا و تِسعة و ثلاثين
+440 : arbзa myā w arbзīn : أَربعة ميا و أَربعين
+441 : arbзa myā w wāꜧid w arbзīn : أَربعة ميا و واحِد و أَربعين
+442 : arbзa myā w thnīn w arbзīn : أَربعة ميا و ثنين و أَربعين
+443 : arbзa myā w thlātha w arbзīn : أَربعة ميا و ثلاثة و أَربعين
+444 : arbзa myā w arbзa w arbзīn : أَربعة ميا و أَربعة و أَربعين
+445 : arbзa myā w khamsa w arbзīn : أَربعة ميا و خَمسة و أَربعين
+446 : arbзa myā w sit̄a w arbзīn : أَربعة ميا و سِتّة و أَربعين
+447 : arbзa myā w sabзa w arbзīn : أَربعة ميا و سَبعة و أَربعين
+448 : arbзa myā w thmānya w arbзīn : أَربعة ميا و ثمانية و أَربعين
+449 : arbзa myā w tisзa w arbзīn : أَربعة ميا و تِسعة و أَربعين
+450 : arbзa myā w khamsīn : أَربعة ميا و خَمسين
+451 : arbзa myā w wāꜧid w khamsīn : أَربعة ميا و واحِد و خَمسين
+452 : arbзa myā w thnīn w khamsīn : أَربعة ميا و ثنين و خَمسين
+453 : arbзa myā w thlātha w khamsīn : أَربعة ميا و ثلاثة و خَمسين
+454 : arbзa myā w arbзa w khamsīn : أَربعة ميا و أَربعة و خَمسين
+455 : arbзa myā w khamsa w khamsīn : أَربعة ميا و خَمسة و خَمسين
+456 : arbзa myā w sit̄a w khamsīn : أَربعة ميا و سِتّة و خَمسين
+457 : arbзa myā w sabзa w khamsīn : أَربعة ميا و سَبعة و خَمسين
+458 : arbзa myā w thmānya w khamsīn : أَربعة ميا و ثمانية و خَمسين
+459 : arbзa myā w tisзa w khamsīn : أَربعة ميا و تِسعة و خَمسين
+460 : arbзa myā w sit̄īn : أَربعة ميا و سِتّين
+461 : arbзa myā w wāꜧid w sit̄īn : أَربعة ميا و واحِد و سِتّين
+462 : arbзa myā w thnīn w sit̄īn : أَربعة ميا و ثنين و سِتّين
+463 : arbзa myā w thlātha w sit̄īn : أَربعة ميا و ثلاثة و سِتّين
+464 : arbзa myā w arbзa w sit̄īn : أَربعة ميا و أَربعة و سِتّين
+465 : arbзa myā w khamsa w sit̄īn : أَربعة ميا و خَمسة و سِتّين
+466 : arbзa myā w sit̄a w sit̄īn : أَربعة ميا و سِتّة و سِتّين
+467 : arbзa myā w sabзa w sit̄īn : أَربعة ميا و سَبعة و سِتّين
+468 : arbзa myā w thmānya w sit̄īn : أَربعة ميا و ثمانية و سِتّين
+469 : arbзa myā w tisзa w sit̄īn : أَربعة ميا و تِسعة و سِتّين
+470 : arbзa myā w sabзīn : أَربعة ميا و سَبعين
+471 : arbзa myā w wāꜧid w sabзīn : أَربعة ميا و واحِد و سَبعين
+472 : arbзa myā w thnīn w sabзīn : أَربعة ميا و ثنين و سَبعين
+473 : arbзa myā w thlātha w sabзīn : أَربعة ميا و ثلاثة و سَبعين
+474 : arbзa myā w arbзa w sabзīn : أَربعة ميا و أَربعة و سَبعين
+475 : arbзa myā w khamsa w sabзīn : أَربعة ميا و خَمسة و سَبعين
+476 : arbзa myā w sit̄a w sabзīn : أَربعة ميا و سِتّة و سَبعين
+477 : arbзa myā w sabзa w sabзīn : أَربعة ميا و سَبعة و سَبعين
+478 : arbзa myā w thmānya w sabзīn : أَربعة ميا و ثمانية و سَبعين
+479 : arbзa myā w tisзa w sabзīn : أَربعة ميا و تِسعة و سَبعين
+480 : arbзa myā w thmānīn : أَربعة ميا و ثمانين
+481 : arbзa myā w wāꜧid w thmānīn : أَربعة ميا و واحِد و ثمانين
+482 : arbзa myā w thnīn w thmānīn : أَربعة ميا و ثنين و ثمانين
+483 : arbзa myā w thlātha w thmānīn : أَربعة ميا و ثلاثة و ثمانين
+484 : arbзa myā w arbзa w thmānīn : أَربعة ميا و أَربعة و ثمانين
+485 : arbзa myā w khamsa w thmānīn : أَربعة ميا و خَمسة و ثمانين
+486 : arbзa myā w sit̄a w thmānīn : أَربعة ميا و سِتّة و ثمانين
+487 : arbзa myā w sabзa w thmānīn : أَربعة ميا و سَبعة و ثمانين
+488 : arbзa myā w thmānya w thmānīn : أَربعة ميا و ثمانية و ثمانين
+489 : arbзa myā w tisзa w thmānīn : أَربعة ميا و تِسعة و ثمانين
+490 : arbзa myā w tisзīn : أَربعة ميا و تِسعين
+491 : arbзa myā w wāꜧid w tisзīn : أَربعة ميا و واحِد و تِسعين
+492 : arbзa myā w thnīn w tisзīn : أَربعة ميا و ثنين و تِسعين
+493 : arbзa myā w thlātha w tisзīn : أَربعة ميا و ثلاثة و تِسعين
+494 : arbзa myā w arbзa w tisзīn : أَربعة ميا و أَربعة و تِسعين
+495 : arbзa myā w khamsa w tisзīn : أَربعة ميا و خَمسة و تِسعين
+496 : arbзa myā w sit̄a w tisзīn : أَربعة ميا و سِتّة و تِسعين
+497 : arbзa myā w sabзa w tisзīn : أَربعة ميا و سَبعة و تِسعين
+498 : arbзa myā w thmānya w tisзīn : أَربعة ميا و ثمانية و تِسعين
+499 : arbзa myā w tisзa w tisзīn : أَربعة ميا و تِسعة و تِسعين
+500 : khamsa myā : خَمسة ميا
+501 : khamsa myā w wāꜧid : خَمسة ميا و واحِد
+502 : khamsa myā w thnīn : خَمسة ميا و ثنين
+503 : khamsa myā w thlātha : خَمسة ميا و ثلاثة
+504 : khamsa myā w arbзa : خَمسة ميا و أَربعة
+505 : khamsa myā w khamsa : خَمسة ميا و خَمسة
+506 : khamsa myā w sit̄a : خَمسة ميا و سِتّة
+507 : khamsa myā w sabзa : خَمسة ميا و سَبعة
+508 : khamsa myā w thmānya : خَمسة ميا و ثمانية
+509 : khamsa myā w tisзa : خَمسة ميا و تِسعة
+510 : khamsa myā w зashra : خَمسة ميا و عَشرة
+511 : khamsa myā w aꜧdāsh : خَمسة ميا و أَحداش
+512 : khamsa myā w athnāsh : خَمسة ميا و أَثناش
+513 : khamsa myā w thloṭāsh : خَمسة ميا و ثلُطاش
+514 : khamsa myā w arbaзṭāsh : خَمسة ميا و أَربَعطاش
+515 : khamsa myā w khamsṭāsh : خَمسة ميا و خَمسطاش
+516 : khamsa myā w sit̄āsh : خَمسة ميا و سِتَّّش
+517 : khamsa myā w sbaзṭāsh : خَمسة ميا و سبَعطاش
+518 : khamsa myā w thmonṭāsh : خَمسة ميا و ثمُنطاش
+519 : khamsa myā w tsaзṭāsh : خَمسة ميا و تسَعطاش
+520 : khamsa myā w зishrīn : خَمسة ميا و عِشرين
+521 : khamsa myā w wāꜧid w зishrīn : خَمسة ميا و واحِد و عِشرين
+522 : khamsa myā w thnīn w зishrīn : خَمسة ميا و ثنين و عِشرين
+523 : khamsa myā w thlātha w зishrīn : خَمسة ميا و ثلاثة و عِشرين
+524 : khamsa myā w arbзa w зishrīn : خَمسة ميا و أَربعة و عِشرين
+525 : khamsa myā w khamsa w зishrīn : خَمسة ميا و خَمسة و عِشرين
+526 : khamsa myā w sit̄a w зishrīn : خَمسة ميا و سِتّة و عِشرين
+527 : khamsa myā w sabзa w зishrīn : خَمسة ميا و سَبعة و عِشرين
+528 : khamsa myā w thmānya w зishrīn : خَمسة ميا و ثمانية و عِشرين
+529 : khamsa myā w tisзa w зishrīn : خَمسة ميا و تِسعة و عِشرين
+530 : khamsa myā w thlāthīn : خَمسة ميا و ثلاثين
+531 : khamsa myā w wāꜧid w thlāthīn : خَمسة ميا و واحِد و ثلاثين
+532 : khamsa myā w thnīn w thlāthīn : خَمسة ميا و ثنين و ثلاثين
+533 : khamsa myā w thlātha w thlāthīn : خَمسة ميا و ثلاثة و ثلاثين
+534 : khamsa myā w arbзa w thlāthīn : خَمسة ميا و أَربعة و ثلاثين
+535 : khamsa myā w khamsa w thlāthīn : خَمسة ميا و خَمسة و ثلاثين
+536 : khamsa myā w sit̄a w thlāthīn : خَمسة ميا و سِتّة و ثلاثين
+537 : khamsa myā w sabзa w thlāthīn : خَمسة ميا و سَبعة و ثلاثين
+538 : khamsa myā w thmānya w thlāthīn : خَمسة ميا و ثمانية و ثلاثين
+539 : khamsa myā w tisзa w thlāthīn : خَمسة ميا و تِسعة و ثلاثين
+540 : khamsa myā w arbзīn : خَمسة ميا و أَربعين
+541 : khamsa myā w wāꜧid w arbзīn : خَمسة ميا و واحِد و أَربعين
+542 : khamsa myā w thnīn w arbзīn : خَمسة ميا و ثنين و أَربعين
+543 : khamsa myā w thlātha w arbзīn : خَمسة ميا و ثلاثة و أَربعين
+544 : khamsa myā w arbзa w arbзīn : خَمسة ميا و أَربعة و أَربعين
+545 : khamsa myā w khamsa w arbзīn : خَمسة ميا و خَمسة و أَربعين
+546 : khamsa myā w sit̄a w arbзīn : خَمسة ميا و سِتّة و أَربعين
+547 : khamsa myā w sabзa w arbзīn : خَمسة ميا و سَبعة و أَربعين
+548 : khamsa myā w thmānya w arbзīn : خَمسة ميا و ثمانية و أَربعين
+549 : khamsa myā w tisзa w arbзīn : خَمسة ميا و تِسعة و أَربعين
+550 : khamsa myā w khamsīn : خَمسة ميا و خَمسين
+551 : khamsa myā w wāꜧid w khamsīn : خَمسة ميا و واحِد و خَمسين
+552 : khamsa myā w thnīn w khamsīn : خَمسة ميا و ثنين و خَمسين
+553 : khamsa myā w thlātha w khamsīn : خَمسة ميا و ثلاثة و خَمسين
+554 : khamsa myā w arbзa w khamsīn : خَمسة ميا و أَربعة و خَمسين
+555 : khamsa myā w khamsa w khamsīn : خَمسة ميا و خَمسة و خَمسين
+556 : khamsa myā w sit̄a w khamsīn : خَمسة ميا و سِتّة و خَمسين
+557 : khamsa myā w sabзa w khamsīn : خَمسة ميا و سَبعة و خَمسين
+558 : khamsa myā w thmānya w khamsīn : خَمسة ميا و ثمانية و خَمسين
+559 : khamsa myā w tisзa w khamsīn : خَمسة ميا و تِسعة و خَمسين
+560 : khamsa myā w sit̄īn : خَمسة ميا و سِتّين
+561 : khamsa myā w wāꜧid w sit̄īn : خَمسة ميا و واحِد و سِتّين
+562 : khamsa myā w thnīn w sit̄īn : خَمسة ميا و ثنين و سِتّين
+563 : khamsa myā w thlātha w sit̄īn : خَمسة ميا و ثلاثة و سِتّين
+564 : khamsa myā w arbзa w sit̄īn : خَمسة ميا و أَربعة و سِتّين
+565 : khamsa myā w khamsa w sit̄īn : خَمسة ميا و خَمسة و سِتّين
+566 : khamsa myā w sit̄a w sit̄īn : خَمسة ميا و سِتّة و سِتّين
+567 : khamsa myā w sabзa w sit̄īn : خَمسة ميا و سَبعة و سِتّين
+568 : khamsa myā w thmānya w sit̄īn : خَمسة ميا و ثمانية و سِتّين
+569 : khamsa myā w tisзa w sit̄īn : خَمسة ميا و تِسعة و سِتّين
+570 : khamsa myā w sabзīn : خَمسة ميا و سَبعين
+571 : khamsa myā w wāꜧid w sabзīn : خَمسة ميا و واحِد و سَبعين
+572 : khamsa myā w thnīn w sabзīn : خَمسة ميا و ثنين و سَبعين
+573 : khamsa myā w thlātha w sabзīn : خَمسة ميا و ثلاثة و سَبعين
+574 : khamsa myā w arbзa w sabзīn : خَمسة ميا و أَربعة و سَبعين
+575 : khamsa myā w khamsa w sabзīn : خَمسة ميا و خَمسة و سَبعين
+576 : khamsa myā w sit̄a w sabзīn : خَمسة ميا و سِتّة و سَبعين
+577 : khamsa myā w sabзa w sabзīn : خَمسة ميا و سَبعة و سَبعين
+578 : khamsa myā w thmānya w sabзīn : خَمسة ميا و ثمانية و سَبعين
+579 : khamsa myā w tisзa w sabзīn : خَمسة ميا و تِسعة و سَبعين
+580 : khamsa myā w thmānīn : خَمسة ميا و ثمانين
+581 : khamsa myā w wāꜧid w thmānīn : خَمسة ميا و واحِد و ثمانين
+582 : khamsa myā w thnīn w thmānīn : خَمسة ميا و ثنين و ثمانين
+583 : khamsa myā w thlātha w thmānīn : خَمسة ميا و ثلاثة و ثمانين
+584 : khamsa myā w arbзa w thmānīn : خَمسة ميا و أَربعة و ثمانين
+585 : khamsa myā w khamsa w thmānīn : خَمسة ميا و خَمسة و ثمانين
+586 : khamsa myā w sit̄a w thmānīn : خَمسة ميا و سِتّة و ثمانين
+587 : khamsa myā w sabзa w thmānīn : خَمسة ميا و سَبعة و ثمانين
+588 : khamsa myā w thmānya w thmānīn : خَمسة ميا و ثمانية و ثمانين
+589 : khamsa myā w tisзa w thmānīn : خَمسة ميا و تِسعة و ثمانين
+590 : khamsa myā w tisзīn : خَمسة ميا و تِسعين
+591 : khamsa myā w wāꜧid w tisзīn : خَمسة ميا و واحِد و تِسعين
+592 : khamsa myā w thnīn w tisзīn : خَمسة ميا و ثنين و تِسعين
+593 : khamsa myā w thlātha w tisзīn : خَمسة ميا و ثلاثة و تِسعين
+594 : khamsa myā w arbзa w tisзīn : خَمسة ميا و أَربعة و تِسعين
+595 : khamsa myā w khamsa w tisзīn : خَمسة ميا و خَمسة و تِسعين
+596 : khamsa myā w sit̄a w tisзīn : خَمسة ميا و سِتّة و تِسعين
+597 : khamsa myā w sabзa w tisзīn : خَمسة ميا و سَبعة و تِسعين
+598 : khamsa myā w thmānya w tisзīn : خَمسة ميا و ثمانية و تِسعين
+599 : khamsa myā w tisзa w tisзīn : خَمسة ميا و تِسعة و تِسعين
+600 : sit̄a myā : سِتّة ميا
+601 : sit̄a myā w wāꜧid : سِتّة ميا و واحِد
+602 : sit̄a myā w thnīn : سِتّة ميا و ثنين
+603 : sit̄a myā w thlātha : سِتّة ميا و ثلاثة
+604 : sit̄a myā w arbзa : سِتّة ميا و أَربعة
+605 : sit̄a myā w khamsa : سِتّة ميا و خَمسة
+606 : sit̄a myā w sit̄a : سِتّة ميا و سِتّة
+607 : sit̄a myā w sabзa : سِتّة ميا و سَبعة
+608 : sit̄a myā w thmānya : سِتّة ميا و ثمانية
+609 : sit̄a myā w tisзa : سِتّة ميا و تِسعة
+610 : sit̄a myā w зashra : سِتّة ميا و عَشرة
+611 : sit̄a myā w aꜧdāsh : سِتّة ميا و أَحداش
+612 : sit̄a myā w athnāsh : سِتّة ميا و أَثناش
+613 : sit̄a myā w thloṭāsh : سِتّة ميا و ثلُطاش
+614 : sit̄a myā w arbaзṭāsh : سِتّة ميا و أَربَعطاش
+615 : sit̄a myā w khamsṭāsh : سِتّة ميا و خَمسطاش
+616 : sit̄a myā w sit̄āsh : سِتّة ميا و سِتَّّش
+617 : sit̄a myā w sbaзṭāsh : سِتّة ميا و سبَعطاش
+618 : sit̄a myā w thmonṭāsh : سِتّة ميا و ثمُنطاش
+619 : sit̄a myā w tsaзṭāsh : سِتّة ميا و تسَعطاش
+620 : sit̄a myā w зishrīn : سِتّة ميا و عِشرين
+621 : sit̄a myā w wāꜧid w зishrīn : سِتّة ميا و واحِد و عِشرين
+622 : sit̄a myā w thnīn w зishrīn : سِتّة ميا و ثنين و عِشرين
+623 : sit̄a myā w thlātha w зishrīn : سِتّة ميا و ثلاثة و عِشرين
+624 : sit̄a myā w arbзa w зishrīn : سِتّة ميا و أَربعة و عِشرين
+625 : sit̄a myā w khamsa w зishrīn : سِتّة ميا و خَمسة و عِشرين
+626 : sit̄a myā w sit̄a w зishrīn : سِتّة ميا و سِتّة و عِشرين
+627 : sit̄a myā w sabзa w зishrīn : سِتّة ميا و سَبعة و عِشرين
+628 : sit̄a myā w thmānya w зishrīn : سِتّة ميا و ثمانية و عِشرين
+629 : sit̄a myā w tisзa w зishrīn : سِتّة ميا و تِسعة و عِشرين
+630 : sit̄a myā w thlāthīn : سِتّة ميا و ثلاثين
+631 : sit̄a myā w wāꜧid w thlāthīn : سِتّة ميا و واحِد و ثلاثين
+632 : sit̄a myā w thnīn w thlāthīn : سِتّة ميا و ثنين و ثلاثين
+633 : sit̄a myā w thlātha w thlāthīn : سِتّة ميا و ثلاثة و ثلاثين
+634 : sit̄a myā w arbзa w thlāthīn : سِتّة ميا و أَربعة و ثلاثين
+635 : sit̄a myā w khamsa w thlāthīn : سِتّة ميا و خَمسة و ثلاثين
+636 : sit̄a myā w sit̄a w thlāthīn : سِتّة ميا و سِتّة و ثلاثين
+637 : sit̄a myā w sabзa w thlāthīn : سِتّة ميا و سَبعة و ثلاثين
+638 : sit̄a myā w thmānya w thlāthīn : سِتّة ميا و ثمانية و ثلاثين
+639 : sit̄a myā w tisзa w thlāthīn : سِتّة ميا و تِسعة و ثلاثين
+640 : sit̄a myā w arbзīn : سِتّة ميا و أَربعين
+641 : sit̄a myā w wāꜧid w arbзīn : سِتّة ميا و واحِد و أَربعين
+642 : sit̄a myā w thnīn w arbзīn : سِتّة ميا و ثنين و أَربعين
+643 : sit̄a myā w thlātha w arbзīn : سِتّة ميا و ثلاثة و أَربعين
+644 : sit̄a myā w arbзa w arbзīn : سِتّة ميا و أَربعة و أَربعين
+645 : sit̄a myā w khamsa w arbзīn : سِتّة ميا و خَمسة و أَربعين
+646 : sit̄a myā w sit̄a w arbзīn : سِتّة ميا و سِتّة و أَربعين
+647 : sit̄a myā w sabзa w arbзīn : سِتّة ميا و سَبعة و أَربعين
+648 : sit̄a myā w thmānya w arbзīn : سِتّة ميا و ثمانية و أَربعين
+649 : sit̄a myā w tisзa w arbзīn : سِتّة ميا و تِسعة و أَربعين
+650 : sit̄a myā w khamsīn : سِتّة ميا و خَمسين
+651 : sit̄a myā w wāꜧid w khamsīn : سِتّة ميا و واحِد و خَمسين
+652 : sit̄a myā w thnīn w khamsīn : سِتّة ميا و ثنين و خَمسين
+653 : sit̄a myā w thlātha w khamsīn : سِتّة ميا و ثلاثة و خَمسين
+654 : sit̄a myā w arbзa w khamsīn : سِتّة ميا و أَربعة و خَمسين
+655 : sit̄a myā w khamsa w khamsīn : سِتّة ميا و خَمسة و خَمسين
+656 : sit̄a myā w sit̄a w khamsīn : سِتّة ميا و سِتّة و خَمسين
+657 : sit̄a myā w sabзa w khamsīn : سِتّة ميا و سَبعة و خَمسين
+658 : sit̄a myā w thmānya w khamsīn : سِتّة ميا و ثمانية و خَمسين
+659 : sit̄a myā w tisзa w khamsīn : سِتّة ميا و تِسعة و خَمسين
+660 : sit̄a myā w sit̄īn : سِتّة ميا و سِتّين
+661 : sit̄a myā w wāꜧid w sit̄īn : سِتّة ميا و واحِد و سِتّين
+662 : sit̄a myā w thnīn w sit̄īn : سِتّة ميا و ثنين و سِتّين
+663 : sit̄a myā w thlātha w sit̄īn : سِتّة ميا و ثلاثة و سِتّين
+664 : sit̄a myā w arbзa w sit̄īn : سِتّة ميا و أَربعة و سِتّين
+665 : sit̄a myā w khamsa w sit̄īn : سِتّة ميا و خَمسة و سِتّين
+666 : sit̄a myā w sit̄a w sit̄īn : سِتّة ميا و سِتّة و سِتّين
+667 : sit̄a myā w sabзa w sit̄īn : سِتّة ميا و سَبعة و سِتّين
+668 : sit̄a myā w thmānya w sit̄īn : سِتّة ميا و ثمانية و سِتّين
+669 : sit̄a myā w tisзa w sit̄īn : سِتّة ميا و تِسعة و سِتّين
+670 : sit̄a myā w sabзīn : سِتّة ميا و سَبعين
+671 : sit̄a myā w wāꜧid w sabзīn : سِتّة ميا و واحِد و سَبعين
+672 : sit̄a myā w thnīn w sabзīn : سِتّة ميا و ثنين و سَبعين
+673 : sit̄a myā w thlātha w sabзīn : سِتّة ميا و ثلاثة و سَبعين
+674 : sit̄a myā w arbзa w sabзīn : سِتّة ميا و أَربعة و سَبعين
+675 : sit̄a myā w khamsa w sabзīn : سِتّة ميا و خَمسة و سَبعين
+676 : sit̄a myā w sit̄a w sabзīn : سِتّة ميا و سِتّة و سَبعين
+677 : sit̄a myā w sabзa w sabзīn : سِتّة ميا و سَبعة و سَبعين
+678 : sit̄a myā w thmānya w sabзīn : سِتّة ميا و ثمانية و سَبعين
+679 : sit̄a myā w tisзa w sabзīn : سِتّة ميا و تِسعة و سَبعين
+680 : sit̄a myā w thmānīn : سِتّة ميا و ثمانين
+681 : sit̄a myā w wāꜧid w thmānīn : سِتّة ميا و واحِد و ثمانين
+682 : sit̄a myā w thnīn w thmānīn : سِتّة ميا و ثنين و ثمانين
+683 : sit̄a myā w thlātha w thmānīn : سِتّة ميا و ثلاثة و ثمانين
+684 : sit̄a myā w arbзa w thmānīn : سِتّة ميا و أَربعة و ثمانين
+685 : sit̄a myā w khamsa w thmānīn : سِتّة ميا و خَمسة و ثمانين
+686 : sit̄a myā w sit̄a w thmānīn : سِتّة ميا و سِتّة و ثمانين
+687 : sit̄a myā w sabзa w thmānīn : سِتّة ميا و سَبعة و ثمانين
+688 : sit̄a myā w thmānya w thmānīn : سِتّة ميا و ثمانية و ثمانين
+689 : sit̄a myā w tisзa w thmānīn : سِتّة ميا و تِسعة و ثمانين
+690 : sit̄a myā w tisзīn : سِتّة ميا و تِسعين
+691 : sit̄a myā w wāꜧid w tisзīn : سِتّة ميا و واحِد و تِسعين
+692 : sit̄a myā w thnīn w tisзīn : سِتّة ميا و ثنين و تِسعين
+693 : sit̄a myā w thlātha w tisзīn : سِتّة ميا و ثلاثة و تِسعين
+694 : sit̄a myā w arbзa w tisзīn : سِتّة ميا و أَربعة و تِسعين
+695 : sit̄a myā w khamsa w tisзīn : سِتّة ميا و خَمسة و تِسعين
+696 : sit̄a myā w sit̄a w tisзīn : سِتّة ميا و سِتّة و تِسعين
+697 : sit̄a myā w sabзa w tisзīn : سِتّة ميا و سَبعة و تِسعين
+698 : sit̄a myā w thmānya w tisзīn : سِتّة ميا و ثمانية و تِسعين
+699 : sit̄a myā w tisзa w tisзīn : سِتّة ميا و تِسعة و تِسعين
+700 : sabзa myā : سَبعة ميا
+701 : sabзa myā w wāꜧid : سَبعة ميا و واحِد
+702 : sabзa myā w thnīn : سَبعة ميا و ثنين
+703 : sabзa myā w thlātha : سَبعة ميا و ثلاثة
+704 : sabзa myā w arbзa : سَبعة ميا و أَربعة
+705 : sabзa myā w khamsa : سَبعة ميا و خَمسة
+706 : sabзa myā w sit̄a : سَبعة ميا و سِتّة
+707 : sabзa myā w sabзa : سَبعة ميا و سَبعة
+708 : sabзa myā w thmānya : سَبعة ميا و ثمانية
+709 : sabзa myā w tisзa : سَبعة ميا و تِسعة
+710 : sabзa myā w зashra : سَبعة ميا و عَشرة
+711 : sabзa myā w aꜧdāsh : سَبعة ميا و أَحداش
+712 : sabзa myā w athnāsh : سَبعة ميا و أَثناش
+713 : sabзa myā w thloṭāsh : سَبعة ميا و ثلُطاش
+714 : sabзa myā w arbaзṭāsh : سَبعة ميا و أَربَعطاش
+715 : sabзa myā w khamsṭāsh : سَبعة ميا و خَمسطاش
+716 : sabзa myā w sit̄āsh : سَبعة ميا و سِتَّّش
+717 : sabзa myā w sbaзṭāsh : سَبعة ميا و سبَعطاش
+718 : sabзa myā w thmonṭāsh : سَبعة ميا و ثمُنطاش
+719 : sabзa myā w tsaзṭāsh : سَبعة ميا و تسَعطاش
+720 : sabзa myā w зishrīn : سَبعة ميا و عِشرين
+721 : sabзa myā w wāꜧid w зishrīn : سَبعة ميا و واحِد و عِشرين
+722 : sabзa myā w thnīn w зishrīn : سَبعة ميا و ثنين و عِشرين
+723 : sabзa myā w thlātha w зishrīn : سَبعة ميا و ثلاثة و عِشرين
+724 : sabзa myā w arbзa w зishrīn : سَبعة ميا و أَربعة و عِشرين
+725 : sabзa myā w khamsa w зishrīn : سَبعة ميا و خَمسة و عِشرين
+726 : sabзa myā w sit̄a w зishrīn : سَبعة ميا و سِتّة و عِشرين
+727 : sabзa myā w sabзa w зishrīn : سَبعة ميا و سَبعة و عِشرين
+728 : sabзa myā w thmānya w зishrīn : سَبعة ميا و ثمانية و عِشرين
+729 : sabзa myā w tisзa w зishrīn : سَبعة ميا و تِسعة و عِشرين
+730 : sabзa myā w thlāthīn : سَبعة ميا و ثلاثين
+731 : sabзa myā w wāꜧid w thlāthīn : سَبعة ميا و واحِد و ثلاثين
+732 : sabзa myā w thnīn w thlāthīn : سَبعة ميا و ثنين و ثلاثين
+733 : sabзa myā w thlātha w thlāthīn : سَبعة ميا و ثلاثة و ثلاثين
+734 : sabзa myā w arbзa w thlāthīn : سَبعة ميا و أَربعة و ثلاثين
+735 : sabзa myā w khamsa w thlāthīn : سَبعة ميا و خَمسة و ثلاثين
+736 : sabзa myā w sit̄a w thlāthīn : سَبعة ميا و سِتّة و ثلاثين
+737 : sabзa myā w sabзa w thlāthīn : سَبعة ميا و سَبعة و ثلاثين
+738 : sabзa myā w thmānya w thlāthīn : سَبعة ميا و ثمانية و ثلاثين
+739 : sabзa myā w tisзa w thlāthīn : سَبعة ميا و تِسعة و ثلاثين
+740 : sabзa myā w arbзīn : سَبعة ميا و أَربعين
+741 : sabзa myā w wāꜧid w arbзīn : سَبعة ميا و واحِد و أَربعين
+742 : sabзa myā w thnīn w arbзīn : سَبعة ميا و ثنين و أَربعين
+743 : sabзa myā w thlātha w arbзīn : سَبعة ميا و ثلاثة و أَربعين
+744 : sabзa myā w arbзa w arbзīn : سَبعة ميا و أَربعة و أَربعين
+745 : sabзa myā w khamsa w arbзīn : سَبعة ميا و خَمسة و أَربعين
+746 : sabзa myā w sit̄a w arbзīn : سَبعة ميا و سِتّة و أَربعين
+747 : sabзa myā w sabзa w arbзīn : سَبعة ميا و سَبعة و أَربعين
+748 : sabзa myā w thmānya w arbзīn : سَبعة ميا و ثمانية و أَربعين
+749 : sabзa myā w tisзa w arbзīn : سَبعة ميا و تِسعة و أَربعين
+750 : sabзa myā w khamsīn : سَبعة ميا و خَمسين
+751 : sabзa myā w wāꜧid w khamsīn : سَبعة ميا و واحِد و خَمسين
+752 : sabзa myā w thnīn w khamsīn : سَبعة ميا و ثنين و خَمسين
+753 : sabзa myā w thlātha w khamsīn : سَبعة ميا و ثلاثة و خَمسين
+754 : sabзa myā w arbзa w khamsīn : سَبعة ميا و أَربعة و خَمسين
+755 : sabзa myā w khamsa w khamsīn : سَبعة ميا و خَمسة و خَمسين
+756 : sabзa myā w sit̄a w khamsīn : سَبعة ميا و سِتّة و خَمسين
+757 : sabзa myā w sabзa w khamsīn : سَبعة ميا و سَبعة و خَمسين
+758 : sabзa myā w thmānya w khamsīn : سَبعة ميا و ثمانية و خَمسين
+759 : sabзa myā w tisзa w khamsīn : سَبعة ميا و تِسعة و خَمسين
+760 : sabзa myā w sit̄īn : سَبعة ميا و سِتّين
+761 : sabзa myā w wāꜧid w sit̄īn : سَبعة ميا و واحِد و سِتّين
+762 : sabзa myā w thnīn w sit̄īn : سَبعة ميا و ثنين و سِتّين
+763 : sabзa myā w thlātha w sit̄īn : سَبعة ميا و ثلاثة و سِتّين
+764 : sabзa myā w arbзa w sit̄īn : سَبعة ميا و أَربعة و سِتّين
+765 : sabзa myā w khamsa w sit̄īn : سَبعة ميا و خَمسة و سِتّين
+766 : sabзa myā w sit̄a w sit̄īn : سَبعة ميا و سِتّة و سِتّين
+767 : sabзa myā w sabзa w sit̄īn : سَبعة ميا و سَبعة و سِتّين
+768 : sabзa myā w thmānya w sit̄īn : سَبعة ميا و ثمانية و سِتّين
+769 : sabзa myā w tisзa w sit̄īn : سَبعة ميا و تِسعة و سِتّين
+770 : sabзa myā w sabзīn : سَبعة ميا و سَبعين
+771 : sabзa myā w wāꜧid w sabзīn : سَبعة ميا و واحِد و سَبعين
+772 : sabзa myā w thnīn w sabзīn : سَبعة ميا و ثنين و سَبعين
+773 : sabзa myā w thlātha w sabзīn : سَبعة ميا و ثلاثة و سَبعين
+774 : sabзa myā w arbзa w sabзīn : سَبعة ميا و أَربعة و سَبعين
+775 : sabзa myā w khamsa w sabзīn : سَبعة ميا و خَمسة و سَبعين
+776 : sabзa myā w sit̄a w sabзīn : سَبعة ميا و سِتّة و سَبعين
+777 : sabзa myā w sabзa w sabзīn : سَبعة ميا و سَبعة و سَبعين
+778 : sabзa myā w thmānya w sabзīn : سَبعة ميا و ثمانية و سَبعين
+779 : sabзa myā w tisзa w sabзīn : سَبعة ميا و تِسعة و سَبعين
+780 : sabзa myā w thmānīn : سَبعة ميا و ثمانين
+781 : sabзa myā w wāꜧid w thmānīn : سَبعة ميا و واحِد و ثمانين
+782 : sabзa myā w thnīn w thmānīn : سَبعة ميا و ثنين و ثمانين
+783 : sabзa myā w thlātha w thmānīn : سَبعة ميا و ثلاثة و ثمانين
+784 : sabзa myā w arbзa w thmānīn : سَبعة ميا و أَربعة و ثمانين
+785 : sabзa myā w khamsa w thmānīn : سَبعة ميا و خَمسة و ثمانين
+786 : sabзa myā w sit̄a w thmānīn : سَبعة ميا و سِتّة و ثمانين
+787 : sabзa myā w sabзa w thmānīn : سَبعة ميا و سَبعة و ثمانين
+788 : sabзa myā w thmānya w thmānīn : سَبعة ميا و ثمانية و ثمانين
+789 : sabзa myā w tisзa w thmānīn : سَبعة ميا و تِسعة و ثمانين
+790 : sabзa myā w tisзīn : سَبعة ميا و تِسعين
+791 : sabзa myā w wāꜧid w tisзīn : سَبعة ميا و واحِد و تِسعين
+792 : sabзa myā w thnīn w tisзīn : سَبعة ميا و ثنين و تِسعين
+793 : sabзa myā w thlātha w tisзīn : سَبعة ميا و ثلاثة و تِسعين
+794 : sabзa myā w arbзa w tisзīn : سَبعة ميا و أَربعة و تِسعين
+795 : sabзa myā w khamsa w tisзīn : سَبعة ميا و خَمسة و تِسعين
+796 : sabзa myā w sit̄a w tisзīn : سَبعة ميا و سِتّة و تِسعين
+797 : sabзa myā w sabзa w tisзīn : سَبعة ميا و سَبعة و تِسعين
+798 : sabзa myā w thmānya w tisзīn : سَبعة ميا و ثمانية و تِسعين
+799 : sabзa myā w tisзa w tisзīn : سَبعة ميا و تِسعة و تِسعين
+800 : thmānya myā : ثمانية ميا
+801 : thmānya myā w wāꜧid : ثمانية ميا و واحِد
+802 : thmānya myā w thnīn : ثمانية ميا و ثنين
+803 : thmānya myā w thlātha : ثمانية ميا و ثلاثة
+804 : thmānya myā w arbзa : ثمانية ميا و أَربعة
+805 : thmānya myā w khamsa : ثمانية ميا و خَمسة
+806 : thmānya myā w sit̄a : ثمانية ميا و سِتّة
+807 : thmānya myā w sabзa : ثمانية ميا و سَبعة
+808 : thmānya myā w thmānya : ثمانية ميا و ثمانية
+809 : thmānya myā w tisзa : ثمانية ميا و تِسعة
+810 : thmānya myā w зashra : ثمانية ميا و عَشرة
+811 : thmānya myā w aꜧdāsh : ثمانية ميا و أَحداش
+812 : thmānya myā w athnāsh : ثمانية ميا و أَثناش
+813 : thmānya myā w thloṭāsh : ثمانية ميا و ثلُطاش
+814 : thmānya myā w arbaзṭāsh : ثمانية ميا و أَربَعطاش
+815 : thmānya myā w khamsṭāsh : ثمانية ميا و خَمسطاش
+816 : thmānya myā w sit̄āsh : ثمانية ميا و سِتَّّش
+817 : thmānya myā w sbaзṭāsh : ثمانية ميا و سبَعطاش
+818 : thmānya myā w thmonṭāsh : ثمانية ميا و ثمُنطاش
+819 : thmānya myā w tsaзṭāsh : ثمانية ميا و تسَعطاش
+820 : thmānya myā w зishrīn : ثمانية ميا و عِشرين
+821 : thmānya myā w wāꜧid w зishrīn : ثمانية ميا و واحِد و عِشرين
+822 : thmānya myā w thnīn w зishrīn : ثمانية ميا و ثنين و عِشرين
+823 : thmānya myā w thlātha w зishrīn : ثمانية ميا و ثلاثة و عِشرين
+824 : thmānya myā w arbзa w зishrīn : ثمانية ميا و أَربعة و عِشرين
+825 : thmānya myā w khamsa w зishrīn : ثمانية ميا و خَمسة و عِشرين
+826 : thmānya myā w sit̄a w зishrīn : ثمانية ميا و سِتّة و عِشرين
+827 : thmānya myā w sabзa w зishrīn : ثمانية ميا و سَبعة و عِشرين
+828 : thmānya myā w thmānya w зishrīn : ثمانية ميا و ثمانية و عِشرين
+829 : thmānya myā w tisзa w зishrīn : ثمانية ميا و تِسعة و عِشرين
+830 : thmānya myā w thlāthīn : ثمانية ميا و ثلاثين
+831 : thmānya myā w wāꜧid w thlāthīn : ثمانية ميا و واحِد و ثلاثين
+832 : thmānya myā w thnīn w thlāthīn : ثمانية ميا و ثنين و ثلاثين
+833 : thmānya myā w thlātha w thlāthīn : ثمانية ميا و ثلاثة و ثلاثين
+834 : thmānya myā w arbзa w thlāthīn : ثمانية ميا و أَربعة و ثلاثين
+835 : thmānya myā w khamsa w thlāthīn : ثمانية ميا و خَمسة و ثلاثين
+836 : thmānya myā w sit̄a w thlāthīn : ثمانية ميا و سِتّة و ثلاثين
+837 : thmānya myā w sabзa w thlāthīn : ثمانية ميا و سَبعة و ثلاثين
+838 : thmānya myā w thmānya w thlāthīn : ثمانية ميا و ثمانية و ثلاثين
+839 : thmānya myā w tisзa w thlāthīn : ثمانية ميا و تِسعة و ثلاثين
+840 : thmānya myā w arbзīn : ثمانية ميا و أَربعين
+841 : thmānya myā w wāꜧid w arbзīn : ثمانية ميا و واحِد و أَربعين
+842 : thmānya myā w thnīn w arbзīn : ثمانية ميا و ثنين و أَربعين
+843 : thmānya myā w thlātha w arbзīn : ثمانية ميا و ثلاثة و أَربعين
+844 : thmānya myā w arbзa w arbзīn : ثمانية ميا و أَربعة و أَربعين
+845 : thmānya myā w khamsa w arbзīn : ثمانية ميا و خَمسة و أَربعين
+846 : thmānya myā w sit̄a w arbзīn : ثمانية ميا و سِتّة و أَربعين
+847 : thmānya myā w sabзa w arbзīn : ثمانية ميا و سَبعة و أَربعين
+848 : thmānya myā w thmānya w arbзīn : ثمانية ميا و ثمانية و أَربعين
+849 : thmānya myā w tisзa w arbзīn : ثمانية ميا و تِسعة و أَربعين
+850 : thmānya myā w khamsīn : ثمانية ميا و خَمسين
+851 : thmānya myā w wāꜧid w khamsīn : ثمانية ميا و واحِد و خَمسين
+852 : thmānya myā w thnīn w khamsīn : ثمانية ميا و ثنين و خَمسين
+853 : thmānya myā w thlātha w khamsīn : ثمانية ميا و ثلاثة و خَمسين
+854 : thmānya myā w arbзa w khamsīn : ثمانية ميا و أَربعة و خَمسين
+855 : thmānya myā w khamsa w khamsīn : ثمانية ميا و خَمسة و خَمسين
+856 : thmānya myā w sit̄a w khamsīn : ثمانية ميا و سِتّة و خَمسين
+857 : thmānya myā w sabзa w khamsīn : ثمانية ميا و سَبعة و خَمسين
+858 : thmānya myā w thmānya w khamsīn : ثمانية ميا و ثمانية و خَمسين
+859 : thmānya myā w tisзa w khamsīn : ثمانية ميا و تِسعة و خَمسين
+860 : thmānya myā w sit̄īn : ثمانية ميا و سِتّين
+861 : thmānya myā w wāꜧid w sit̄īn : ثمانية ميا و واحِد و سِتّين
+862 : thmānya myā w thnīn w sit̄īn : ثمانية ميا و ثنين و سِتّين
+863 : thmānya myā w thlātha w sit̄īn : ثمانية ميا و ثلاثة و سِتّين
+864 : thmānya myā w arbзa w sit̄īn : ثمانية ميا و أَربعة و سِتّين
+865 : thmānya myā w khamsa w sit̄īn : ثمانية ميا و خَمسة و سِتّين
+866 : thmānya myā w sit̄a w sit̄īn : ثمانية ميا و سِتّة و سِتّين
+867 : thmānya myā w sabзa w sit̄īn : ثمانية ميا و سَبعة و سِتّين
+868 : thmānya myā w thmānya w sit̄īn : ثمانية ميا و ثمانية و سِتّين
+869 : thmānya myā w tisзa w sit̄īn : ثمانية ميا و تِسعة و سِتّين
+870 : thmānya myā w sabзīn : ثمانية ميا و سَبعين
+871 : thmānya myā w wāꜧid w sabзīn : ثمانية ميا و واحِد و سَبعين
+872 : thmānya myā w thnīn w sabзīn : ثمانية ميا و ثنين و سَبعين
+873 : thmānya myā w thlātha w sabзīn : ثمانية ميا و ثلاثة و سَبعين
+874 : thmānya myā w arbзa w sabзīn : ثمانية ميا و أَربعة و سَبعين
+875 : thmānya myā w khamsa w sabзīn : ثمانية ميا و خَمسة و سَبعين
+876 : thmānya myā w sit̄a w sabзīn : ثمانية ميا و سِتّة و سَبعين
+877 : thmānya myā w sabзa w sabзīn : ثمانية ميا و سَبعة و سَبعين
+878 : thmānya myā w thmānya w sabзīn : ثمانية ميا و ثمانية و سَبعين
+879 : thmānya myā w tisзa w sabзīn : ثمانية ميا و تِسعة و سَبعين
+880 : thmānya myā w thmānīn : ثمانية ميا و ثمانين
+881 : thmānya myā w wāꜧid w thmānīn : ثمانية ميا و واحِد و ثمانين
+882 : thmānya myā w thnīn w thmānīn : ثمانية ميا و ثنين و ثمانين
+883 : thmānya myā w thlātha w thmānīn : ثمانية ميا و ثلاثة و ثمانين
+884 : thmānya myā w arbзa w thmānīn : ثمانية ميا و أَربعة و ثمانين
+885 : thmānya myā w khamsa w thmānīn : ثمانية ميا و خَمسة و ثمانين
+886 : thmānya myā w sit̄a w thmānīn : ثمانية ميا و سِتّة و ثمانين
+887 : thmānya myā w sabзa w thmānīn : ثمانية ميا و سَبعة و ثمانين
+888 : thmānya myā w thmānya w thmānīn : ثمانية ميا و ثمانية و ثمانين
+889 : thmānya myā w tisзa w thmānīn : ثمانية ميا و تِسعة و ثمانين
+890 : thmānya myā w tisзīn : ثمانية ميا و تِسعين
+891 : thmānya myā w wāꜧid w tisзīn : ثمانية ميا و واحِد و تِسعين
+892 : thmānya myā w thnīn w tisзīn : ثمانية ميا و ثنين و تِسعين
+893 : thmānya myā w thlātha w tisзīn : ثمانية ميا و ثلاثة و تِسعين
+894 : thmānya myā w arbзa w tisзīn : ثمانية ميا و أَربعة و تِسعين
+895 : thmānya myā w khamsa w tisзīn : ثمانية ميا و خَمسة و تِسعين
+896 : thmānya myā w sit̄a w tisзīn : ثمانية ميا و سِتّة و تِسعين
+897 : thmānya myā w sabзa w tisзīn : ثمانية ميا و سَبعة و تِسعين
+898 : thmānya myā w thmānya w tisзīn : ثمانية ميا و ثمانية و تِسعين
+899 : thmānya myā w tisзa w tisзīn : ثمانية ميا و تِسعة و تِسعين
+900 : tisзa myā : تِسعة ميا
+901 : tisзa myā w wāꜧid : تِسعة ميا و واحِد
+902 : tisзa myā w thnīn : تِسعة ميا و ثنين
+903 : tisзa myā w thlātha : تِسعة ميا و ثلاثة
+904 : tisзa myā w arbзa : تِسعة ميا و أَربعة
+905 : tisзa myā w khamsa : تِسعة ميا و خَمسة
+906 : tisзa myā w sit̄a : تِسعة ميا و سِتّة
+907 : tisзa myā w sabзa : تِسعة ميا و سَبعة
+908 : tisзa myā w thmānya : تِسعة ميا و ثمانية
+909 : tisзa myā w tisзa : تِسعة ميا و تِسعة
+910 : tisзa myā w зashra : تِسعة ميا و عَشرة
+911 : tisзa myā w aꜧdāsh : تِسعة ميا و أَحداش
+912 : tisзa myā w athnāsh : تِسعة ميا و أَثناش
+913 : tisзa myā w thloṭāsh : تِسعة ميا و ثلُطاش
+914 : tisзa myā w arbaзṭāsh : تِسعة ميا و أَربَعطاش
+915 : tisзa myā w khamsṭāsh : تِسعة ميا و خَمسطاش
+916 : tisзa myā w sit̄āsh : تِسعة ميا و سِتَّّش
+917 : tisзa myā w sbaзṭāsh : تِسعة ميا و سبَعطاش
+918 : tisзa myā w thmonṭāsh : تِسعة ميا و ثمُنطاش
+919 : tisзa myā w tsaзṭāsh : تِسعة ميا و تسَعطاش
+920 : tisзa myā w зishrīn : تِسعة ميا و عِشرين
+921 : tisзa myā w wāꜧid w зishrīn : تِسعة ميا و واحِد و عِشرين
+922 : tisзa myā w thnīn w зishrīn : تِسعة ميا و ثنين و عِشرين
+923 : tisзa myā w thlātha w зishrīn : تِسعة ميا و ثلاثة و عِشرين
+924 : tisзa myā w arbзa w зishrīn : تِسعة ميا و أَربعة و عِشرين
+925 : tisзa myā w khamsa w зishrīn : تِسعة ميا و خَمسة و عِشرين
+926 : tisзa myā w sit̄a w зishrīn : تِسعة ميا و سِتّة و عِشرين
+927 : tisзa myā w sabзa w зishrīn : تِسعة ميا و سَبعة و عِشرين
+928 : tisзa myā w thmānya w зishrīn : تِسعة ميا و ثمانية و عِشرين
+929 : tisзa myā w tisзa w зishrīn : تِسعة ميا و تِسعة و عِشرين
+930 : tisзa myā w thlāthīn : تِسعة ميا و ثلاثين
+931 : tisзa myā w wāꜧid w thlāthīn : تِسعة ميا و واحِد و ثلاثين
+932 : tisзa myā w thnīn w thlāthīn : تِسعة ميا و ثنين و ثلاثين
+933 : tisзa myā w thlātha w thlāthīn : تِسعة ميا و ثلاثة و ثلاثين
+934 : tisзa myā w arbзa w thlāthīn : تِسعة ميا و أَربعة و ثلاثين
+935 : tisзa myā w khamsa w thlāthīn : تِسعة ميا و خَمسة و ثلاثين
+936 : tisзa myā w sit̄a w thlāthīn : تِسعة ميا و سِتّة و ثلاثين
+937 : tisзa myā w sabзa w thlāthīn : تِسعة ميا و سَبعة و ثلاثين
+938 : tisзa myā w thmānya w thlāthīn : تِسعة ميا و ثمانية و ثلاثين
+939 : tisзa myā w tisзa w thlāthīn : تِسعة ميا و تِسعة و ثلاثين
+940 : tisзa myā w arbзīn : تِسعة ميا و أَربعين
+941 : tisзa myā w wāꜧid w arbзīn : تِسعة ميا و واحِد و أَربعين
+942 : tisзa myā w thnīn w arbзīn : تِسعة ميا و ثنين و أَربعين
+943 : tisзa myā w thlātha w arbзīn : تِسعة ميا و ثلاثة و أَربعين
+944 : tisзa myā w arbзa w arbзīn : تِسعة ميا و أَربعة و أَربعين
+945 : tisзa myā w khamsa w arbзīn : تِسعة ميا و خَمسة و أَربعين
+946 : tisзa myā w sit̄a w arbзīn : تِسعة ميا و سِتّة و أَربعين
+947 : tisзa myā w sabзa w arbзīn : تِسعة ميا و سَبعة و أَربعين
+948 : tisзa myā w thmānya w arbзīn : تِسعة ميا و ثمانية و أَربعين
+949 : tisзa myā w tisзa w arbзīn : تِسعة ميا و تِسعة و أَربعين
+950 : tisзa myā w khamsīn : تِسعة ميا و خَمسين
+951 : tisзa myā w wāꜧid w khamsīn : تِسعة ميا و واحِد و خَمسين
+952 : tisзa myā w thnīn w khamsīn : تِسعة ميا و ثنين و خَمسين
+953 : tisзa myā w thlātha w khamsīn : تِسعة ميا و ثلاثة و خَمسين
+954 : tisзa myā w arbзa w khamsīn : تِسعة ميا و أَربعة و خَمسين
+955 : tisзa myā w khamsa w khamsīn : تِسعة ميا و خَمسة و خَمسين
+956 : tisзa myā w sit̄a w khamsīn : تِسعة ميا و سِتّة و خَمسين
+957 : tisзa myā w sabзa w khamsīn : تِسعة ميا و سَبعة و خَمسين
+958 : tisзa myā w thmānya w khamsīn : تِسعة ميا و ثمانية و خَمسين
+959 : tisзa myā w tisзa w khamsīn : تِسعة ميا و تِسعة و خَمسين
+960 : tisзa myā w sit̄īn : تِسعة ميا و سِتّين
+961 : tisзa myā w wāꜧid w sit̄īn : تِسعة ميا و واحِد و سِتّين
+962 : tisзa myā w thnīn w sit̄īn : تِسعة ميا و ثنين و سِتّين
+963 : tisзa myā w thlātha w sit̄īn : تِسعة ميا و ثلاثة و سِتّين
+964 : tisзa myā w arbзa w sit̄īn : تِسعة ميا و أَربعة و سِتّين
+965 : tisзa myā w khamsa w sit̄īn : تِسعة ميا و خَمسة و سِتّين
+966 : tisзa myā w sit̄a w sit̄īn : تِسعة ميا و سِتّة و سِتّين
+967 : tisзa myā w sabзa w sit̄īn : تِسعة ميا و سَبعة و سِتّين
+968 : tisзa myā w thmānya w sit̄īn : تِسعة ميا و ثمانية و سِتّين
+969 : tisзa myā w tisзa w sit̄īn : تِسعة ميا و تِسعة و سِتّين
+970 : tisзa myā w sabзīn : تِسعة ميا و سَبعين
+971 : tisзa myā w wāꜧid w sabзīn : تِسعة ميا و واحِد و سَبعين
+972 : tisзa myā w thnīn w sabзīn : تِسعة ميا و ثنين و سَبعين
+973 : tisзa myā w thlātha w sabзīn : تِسعة ميا و ثلاثة و سَبعين
+974 : tisзa myā w arbзa w sabзīn : تِسعة ميا و أَربعة و سَبعين
+975 : tisзa myā w khamsa w sabзīn : تِسعة ميا و خَمسة و سَبعين
+976 : tisзa myā w sit̄a w sabзīn : تِسعة ميا و سِتّة و سَبعين
+977 : tisзa myā w sabзa w sabзīn : تِسعة ميا و سَبعة و سَبعين
+978 : tisзa myā w thmānya w sabзīn : تِسعة ميا و ثمانية و سَبعين
+979 : tisзa myā w tisзa w sabзīn : تِسعة ميا و تِسعة و سَبعين
+980 : tisзa myā w thmānīn : تِسعة ميا و ثمانين
+981 : tisзa myā w wāꜧid w thmānīn : تِسعة ميا و واحِد و ثمانين
+982 : tisзa myā w thnīn w thmānīn : تِسعة ميا و ثنين و ثمانين
+983 : tisзa myā w thlātha w thmānīn : تِسعة ميا و ثلاثة و ثمانين
+984 : tisзa myā w arbзa w thmānīn : تِسعة ميا و أَربعة و ثمانين
+985 : tisзa myā w khamsa w thmānīn : تِسعة ميا و خَمسة و ثمانين
+986 : tisзa myā w sit̄a w thmānīn : تِسعة ميا و سِتّة و ثمانين
+987 : tisзa myā w sabзa w thmānīn : تِسعة ميا و سَبعة و ثمانين
+988 : tisзa myā w thmānya w thmānīn : تِسعة ميا و ثمانية و ثمانين
+989 : tisзa myā w tisзa w thmānīn : تِسعة ميا و تِسعة و ثمانين
+990 : tisзa myā w tisзīn : تِسعة ميا و تِسعين
+991 : tisзa myā w wāꜧid w tisзīn : تِسعة ميا و واحِد و تِسعين
+992 : tisзa myā w thnīn w tisзīn : تِسعة ميا و ثنين و تِسعين
+993 : tisзa myā w thlātha w tisзīn : تِسعة ميا و ثلاثة و تِسعين
+994 : tisзa myā w arbзa w tisзīn : تِسعة ميا و أَربعة و تِسعين
+995 : tisзa myā w khamsa w tisзīn : تِسعة ميا و خَمسة و تِسعين
+996 : tisзa myā w sit̄a w tisзīn : تِسعة ميا و سِتّة و تِسعين
+997 : tisзa myā w sabзa w tisзīn : تِسعة ميا و سَبعة و تِسعين
+998 : tisзa myā w thmānya w tisзīn : تِسعة ميا و ثمانية و تِسعين
+999 : tisзa myā w tisзa w tisзīn : تِسعة ميا و تِسعة و تِسعين
